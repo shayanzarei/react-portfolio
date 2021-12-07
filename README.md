@@ -1,3 +1,3 @@
 # react-portfolio
 
-you can find project live in <a href="https://react.mohammadzarei.nl/">Here</a>
+You can see the online demo <a href="https://react.mohammadzarei.nl/">here</a>
